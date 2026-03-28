@@ -1,9 +1,9 @@
 function Home() {
   return (
     <div style={styles.container}>
-      <h1 style={styles.title}>Seja bem-vindo 👋</h1>
+      <h1 style={styles.title}>Seja bem-vindos 👋</h1>
       <p style={styles.text}>
-        Essa é uma página inicial simples, feita apenas em JavaScript.
+        Essa é uma página inicial simples, feita apenas em JavaScript e em Next
       </p>
       <button style={styles.button} onClick={handleClick}>
         Clique aqui
@@ -23,7 +23,7 @@ const styles = {
     flexDirection: "column",
     justifyContent: "center",
     alignItems: "center",
-    background: "linear-gradient(135deg, #1e3c72, #2a5298)",
+    background: "linear-gradient(135deg, #00ff37, #1de487)",
     color: "#fff",
     fontFamily: "Arial, sans-serif",
   },
