@@ -23,7 +23,7 @@ const styles = {
     flexDirection: "column",
     justifyContent: "center",
     alignItems: "center",
-    background: "linear-gradient(135deg, #00ff37, #1de487)",
+    background: "linear-gradient(135deg, #0b33b6, #00ffc8)",
     color: "#fff",
     fontFamily: "Arial, sans-serif",
   },
